@@ -8,7 +8,7 @@ public class PppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PppApplication.class, args);
-		System.out.println("Started.....");
+		System.out.println("Application started.....");
 	}
 
 }
